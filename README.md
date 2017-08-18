@@ -1,4 +1,6 @@
 # react-native-qrcode
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/xzzw9987/react-native-qrcode.svg)](https://greenkeeper.io/)
 A react-native component to generate [QRcode](http://en.wikipedia.org/wiki/QR_code), not only support English.
 
 ## Installation
